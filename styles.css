@@ -6,6 +6,8 @@
   margin: 30px;
   padding: 20px;
   border: 10px solid black;
+  max-height: 400px; 
+  overflow-y: auto;
 }
 li {
   padding: 10px;
